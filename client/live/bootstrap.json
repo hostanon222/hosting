@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "7838750dcdb8646399d312b90e35fd2025c1c096b12ef1695e494bb3dd84b683",
+      "hash": "e08533e9ab8d76a99068d861a17b7f69d1ee8745732f9d7102ab47b1ee03ccc6",
       "name": "game-0.0.1.jar",
       "path": "https://github.com/hostanon222/hosting/raw/main/client/live/repo/game-0.0.1.jar",
-      "size": 28145659
+      "size": 28145673
     },
     {
       "hash": "1f195c75d3b951ae0c3f0f9665945895252fafb96874038fa767e45c15a6216e",
@@ -904,7 +904,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "7838750dcdb8646399d312b90e35fd2025c1c096b12ef1695e494bb3dd84b683",
+    "game-0.0.1.jar": "e08533e9ab8d76a99068d861a17b7f69d1ee8745732f9d7102ab47b1ee03ccc6",
     "runelite-0.0.1.jar": "1f195c75d3b951ae0c3f0f9665945895252fafb96874038fa767e45c15a6216e",
     "rs-cache-library-6.9.jar": "19910e74c0471369901fe5490de597f7402f8c15ac76f2dbb229f89048ee653b",
     "disio-2.2.jar": "c4eb3fd121df53906a0d0444570aa070debec7697fa38110ba8979231ae88a71",
